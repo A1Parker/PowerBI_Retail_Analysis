@@ -83,6 +83,8 @@ Date Analysis Dashboard
 - Tools & Technologies Used
 
 - Power BI for data visualization
+### DashBoard:
+![Alt text](relative/path/to/image.png)
 
 
 ### Files in Repository :
