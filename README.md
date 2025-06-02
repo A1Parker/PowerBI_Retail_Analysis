@@ -85,8 +85,7 @@ Date Analysis Dashboard
 - Power BI for data visualization
 ### DashBoard:
 ![Dashboard_1_Date_wise_Analysis](Date_analysis_Dashboard.png)
-![Alt text](relative/path/to/image.png)
-
+![Dashboard_2_City_wise_Analysis](City_analysis_Dashboard.png)
 
 
 ### Files in Repository :
